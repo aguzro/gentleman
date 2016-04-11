@@ -1,0 +1,90 @@
+/*  GENERAL */
+.text-left {
+	text-align: left;
+}
+.bg-black {
+	background-color: #322e39 ; 
+}
+.bg-white {
+	background-color: #fff;
+}
+.Tgray {
+	color: #736d7e;
+}
+.Twhite {
+	color: #fff;
+}
+.m {
+	margin: 0 auto;
+}
+.mt-6 {
+	margin-top: 6%;
+}
+.w-80 {
+	width: 80%;
+}
+m-1 {
+	margin: 1%;
+}
+.pd-1 {
+	padding: 1% 0;
+}
+.pd-3 {
+	padding: 3% 0;
+}
+.pl-5 {
+	padding-left: 5%;
+}
+
+/*  HEADER  */
+ul {
+	list-style-type: none;
+}
+ul li {
+	display: inline-block;
+	margin-right: 3%;
+}
+ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+a :link {
+	color:#fff;
+}
+a :hover {
+	color: #ee2767;
+}
+
+/* READ MORE */
+
+
+/* LATEST PROJECTS */
+.f-tr {
+	font-size: 10px;
+}
+.boton {
+	clear: both;
+	width: 10%;
+	text-align: center;
+}
+
+/* TWITTER  */
+.i-b {
+	display: inline-block;
+}
+.Tpink {
+	color: #ee2767;
+	text-decoration: none;
+}
+
+/* DESCRIPTION */
+
+
+/* DETAILS */
+
+
+/* FOOTER */
+
+
+
+
